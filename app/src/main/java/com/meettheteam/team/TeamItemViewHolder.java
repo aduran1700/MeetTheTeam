@@ -12,7 +12,6 @@ import com.meettheteam.api.model.Member;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
-import io.reactivex.subjects.PublishSubject;
 
 public class TeamItemViewHolder extends RecyclerView.ViewHolder {
 

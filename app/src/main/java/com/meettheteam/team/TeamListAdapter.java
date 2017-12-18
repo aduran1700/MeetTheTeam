@@ -11,8 +11,6 @@ import com.meettheteam.api.model.Member;
 
 import java.util.List;
 
-import io.reactivex.Observable;
-
 
 public class TeamListAdapter extends RecyclerView.Adapter<TeamItemViewHolder> {
 

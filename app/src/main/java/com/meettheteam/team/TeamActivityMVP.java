@@ -4,7 +4,6 @@ package com.meettheteam.team;
 import com.meettheteam.api.model.Member;
 
 import io.reactivex.Observable;
-import io.reactivex.disposables.Disposable;
 
 
 public interface TeamActivityMVP {
