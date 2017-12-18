@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meet The Team</string>
+    <string name="team_member_image_desc">Image of</string>
+    <string name="employee_id">Employee ID</string>
+</resources>
